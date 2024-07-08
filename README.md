@@ -1,1 +1,1 @@
-# Test
+This is a demo repository for the fswd course
